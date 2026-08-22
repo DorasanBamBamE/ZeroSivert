@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c847e7d5781a249aed146e7e885c6d, type: 3}
+  m_Name: Quest_Daily_Ghoul
+  m_EditorClassIdentifier: Assembly-CSharp::QuestData
+  title: "\uAD6C\uC6B8 \uCC98\uB9AC"
+  description: "\uAD6C\uC6B8\uC774 \uB298\uC5C8\uB2E4. \uC5EC\uB35F\uB9CC \uC904\uC5EC\uB3C4
+    \uB0AB\uB2E4."
+  acceptLine: "\uC5EC\uB35F. \uBB3C\uB9AC\uC9C0\uB098 \uB9C8\uB77C."
+  completeLine: "\uCC98\uB9AC \uD655\uC778\uD588\uB2E4."
+  type: 1
+  targetItem: {fileID: 0}
+  targetEnemyId: Ghoul
+  targetCount: 8
+  rewardExp: 180
+  rewardRubles: 700
+  faction: 2
+  rewardReputation: 20
+  rewardItems: {fileID: 0}
+  isDaily: 1

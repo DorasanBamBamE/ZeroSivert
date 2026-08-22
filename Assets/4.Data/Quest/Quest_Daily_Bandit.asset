@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c847e7d5781a249aed146e7e885c6d, type: 3}
+  m_Name: Quest_Daily_Bandit
+  m_EditorClassIdentifier: Assembly-CSharp::QuestData
+  title: "\uC0B0\uC801 \uC18C\uD0D5"
+  description: "\uD06C\uB9BC\uC2A8\uC774 \uC0B0\uC801 \uC5F4\uB458\uC758 \uBAA9\uAC12\uC744
+    \uAC74\uB2E4."
+  acceptLine: "\uC5F4\uB458\uC774\uB2E4. \uD655\uC778\uC740 \uC774\uCABD\uC774 \uD55C\uB2E4."
+  completeLine: "\uACC4\uC57D\uB300\uB85C \uC9C0\uBD88\uD55C\uB2E4."
+  type: 1
+  targetItem: {fileID: 0}
+  targetEnemyId: Bandit
+  targetCount: 12
+  rewardExp: 200
+  rewardRubles: 800
+  faction: 2
+  rewardReputation: 20
+  rewardItems: {fileID: 0}
+  isDaily: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b400481be849bda49972d78f09800867, type: 3}
+  m_Name: NPC_Bartender
+  m_EditorClassIdentifier: Assembly-CSharp::NPCData
+  npcName: "\uBC14\uD150\uB354"
+  portrait: {fileID: 0}
+  role: 0
+  greeting: "\uC549\uB4E0\uAC00 \uBB3C\uAC74\uC744 \uB0B4\uB193\uB4E0\uAC00."
+  idleLine: "\uBC14\uC058\uB2E4."
+  quests:
+  - {fileID: 11400000, guid: af3f5a1b02e0808498ceb372e4fd704f, type: 2}
+  - {fileID: 11400000, guid: 196aa832ff4d06b4891639466fa5c52a, type: 2}
+  sequential: 1
+  merchant: {fileID: 11400000, guid: 31f01a1d9164d1347962f422c043d2a9, type: 2}
+  dailyPool: []
+  dailyOfferCount: 3

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Box_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 944a6511438b4fa4b8446cb06f797fc7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6ad97531c8caf4249a2591648825ab44: 21300000
+    - 1e880d33d3eb1c14e9033a9a3bb5ee48: 21300000
+    - 7d77ba34a1b131c4393321a1100cd916: 21300000
+    - d65b3044e0bf36a4e8e50969ac0fa53f: 21300000
+    - e1a3b64407381474fa63dea4559a7ec7: 21300000
+    - 1d2f03a4af913be48906c6844929ae9f: 21300000
+    - b9f240c4fa8713848ac12034c996327b: 21300000
+    - ed89702634ce38842895d383343c66da: 21300000
+    - ee0a27c693f78464cbac544aacd102b7: 21300000
+    - 0fc042e7425a8b04cb36d4eba344c1da: 21300000
+    - 3e77868829e39c7438e5bf37d2801d04: 21300000
+    - 5ec9b429315860841b279db779d41cff: 21300000
+    - 2bf1c96a84de8f443a33098cbe6d421d: 21300000
+    - 8fb5d1baa70002f4ebe1c9a6ba2d994e: 21300000
+    - e86a03da80376ab439a8bc5de420cc26: 21300000
+    - ec34490b88ca2aa419121851cba6374d: 21300000
+    - 81ebbe6e32248d74d97248cfdee4b7c1: 21300000
+    - 3e89b04f256a87943a6491439c83e4ed: 21300000
+    - 2ef7397fb63af914e91ee82a6610ddf3: 21300000
+    - c5e024cf2025eaf4ebaa27a7a5218da2: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6ad97531c8caf4249a2591648825ab44, type: 3}
+  - {fileID: 21300000, guid: 1e880d33d3eb1c14e9033a9a3bb5ee48, type: 3}
+  - {fileID: 21300000, guid: 7d77ba34a1b131c4393321a1100cd916, type: 3}
+  - {fileID: 21300000, guid: d65b3044e0bf36a4e8e50969ac0fa53f, type: 3}
+  - {fileID: 21300000, guid: e1a3b64407381474fa63dea4559a7ec7, type: 3}
+  - {fileID: 21300000, guid: 1d2f03a4af913be48906c6844929ae9f, type: 3}
+  - {fileID: 21300000, guid: b9f240c4fa8713848ac12034c996327b, type: 3}
+  - {fileID: 21300000, guid: ed89702634ce38842895d383343c66da, type: 3}
+  - {fileID: 21300000, guid: ee0a27c693f78464cbac544aacd102b7, type: 3}
+  - {fileID: 21300000, guid: 0fc042e7425a8b04cb36d4eba344c1da, type: 3}
+  - {fileID: 21300000, guid: 3e77868829e39c7438e5bf37d2801d04, type: 3}
+  - {fileID: 21300000, guid: 5ec9b429315860841b279db779d41cff, type: 3}
+  - {fileID: 21300000, guid: 2bf1c96a84de8f443a33098cbe6d421d, type: 3}
+  - {fileID: 21300000, guid: 8fb5d1baa70002f4ebe1c9a6ba2d994e, type: 3}
+  - {fileID: 21300000, guid: e86a03da80376ab439a8bc5de420cc26, type: 3}
+  - {fileID: 21300000, guid: ec34490b88ca2aa419121851cba6374d, type: 3}
+  - {fileID: 21300000, guid: 81ebbe6e32248d74d97248cfdee4b7c1, type: 3}
+  - {fileID: 21300000, guid: 3e89b04f256a87943a6491439c83e4ed, type: 3}
+  - {fileID: 21300000, guid: 2ef7397fb63af914e91ee82a6610ddf3, type: 3}
+  - {fileID: 21300000, guid: c5e024cf2025eaf4ebaa27a7a5218da2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - s_chest_end_game_repair_0
+  - s_chest_wood2_0
+  - s_chest_med_0
+  - s_item_ammo_box_0
+  - s_chest_1
+  - s_chest_bag_0
+  - s_chest_mod_quest_0
+  - s_chest_tool_box_0
+  - s_chest_0
+  - s_chest_player_0
+  - s_chest_unknown_key_0
+  - s_chest_safe_0
+  - s_chest_mod_0
+  - s_chest_weapon_box_rare_0
+  - s_chest_med_2_0
+  - s_chest_weapon_box_common_0
+  - s_chest_wood_0
+  - s_chest_medication_0
+  - s_chest_electronic_box_0
+  - s_chest_weapon_box_legendary_0
+  m_RenderDataMap: {}
+  m_Tag: Box_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c847e7d5781a249aed146e7e885c6d, type: 3}
+  m_Name: Quest_Daily_Scrap
+  m_EditorClassIdentifier: Assembly-CSharp::QuestData
+  title: "\uACE0\uCCA0 \uC218\uAC70"
+  description: "\uADF8\uB9B0 \uC544\uBBF8\uAC00 \uACE0\uCCA0\uC744 \uC0AC\uB4E4\uC778\uB2E4.
+    \uC5F4\uB2E4\uC12F."
+  acceptLine: "\uC5F4\uB2E4\uC12F. \uC624\uB298 \uC548\uC5D0."
+  completeLine: "\uC218\uACE0\uD588\uB2E4. \uC7A5\uBD80\uC5D0 \uC62C\uB824\uB450\uC9C0."
+  type: 0
+  targetItem: {fileID: 11400000, guid: bb91865d672bcf14ea55258fa94bb623, type: 2}
+  targetEnemyId: 
+  targetCount: 15
+  rewardExp: 100
+  rewardRubles: 600
+  faction: 1
+  rewardReputation: 15
+  rewardItems: {fileID: 0}
+  isDaily: 1

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92eab9ddfa4663544aec70ec7bcb50b1, type: 3}
+  m_Name: Merchant_Doctor
+  m_EditorClassIdentifier: Assembly-CSharp::MerchantData
+  sellMultiplier: 1.3
+  buyMultiplier: 0.45
+  faction: 0
+  discountPer100Rep: 2
+  maxDiscount: 0.25
+  buysCategories: 02000000
+  refusesCategories: 
+  stockWidth: 6
+  stockHeight: 6
+  stockTable: {fileID: 11400000, guid: a6d0df07f01dfdf4488c5a503afd441d, type: 2}
+  restockDaily: 1
+  healPrice: 300
+  bleedPrice: 150
+  radPrice: 400

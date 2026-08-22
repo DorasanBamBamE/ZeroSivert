@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b400481be849bda49972d78f09800867, type: 3}
+  m_Name: NPC_ZoneDeparture
+  m_EditorClassIdentifier: Assembly-CSharp::NPCData
+  npcName: "\uC5ED\uBB34\uC6D0"
+  portrait: {fileID: 21300000, guid: de9ad6de185e80c468fdcb2ae066b96b, type: 3}
+  role: 3
+  greeting: "\uCD9C\uBC1C \uC900\uBE44\uAC00 \uB05D\uB0AC\uC2B5\uB2C8\uB2E4. \uC232
+    \uC9C0\uC5ED\uC73C\uB85C \uD22C\uC785\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+  idleLine: "\uC900\uBE44\uAC00 \uB418\uBA74 \uCD9C\uBC1C\uD558\uACA0\uC2B5\uB2C8\uB2E4."
+  quests: []
+  sequential: 0
+  merchant: {fileID: 0}
+  dailyPool: []
+  dailyOfferCount: 3

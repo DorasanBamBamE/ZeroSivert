@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20f3cb77187a3a2499c2b5f5f4bf49c9, type: 3}
+  m_Name: WeaponItemTable
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponItemTable
+  pairs:
+  - weapon: {fileID: 11400000, guid: 325efc2afe681c44580e7f1e780f270b, type: 2}
+    item: {fileID: 11400000, guid: 701f602ff5688654db5ff02070d5e301, type: 2}
+  - weapon: {fileID: 11400000, guid: d4a0016dc5789e042b464ba82a2966c2, type: 2}
+    item: {fileID: 11400000, guid: cdd3617feefdfa5498ae7dbbcfc0c2d1, type: 2}
+  - weapon: {fileID: 11400000, guid: 1747f48185ab9434b8b14b351eeb6ac8, type: 2}
+    item: {fileID: 11400000, guid: f3e7f3d7bb5fde1428a5ab648976e52b, type: 2}
+  - weapon: {fileID: 11400000, guid: 4b27a61de6a5a3d409f62b2e0dd56f02, type: 2}
+    item: {fileID: 11400000, guid: e37d6eee768da544fbc081f6f21c9e76, type: 2}
+  - weapon: {fileID: 11400000, guid: 884b257610cb9eb48bb64143f7f82899, type: 2}
+    item: {fileID: 11400000, guid: afbe7a09440ffa142b8dcd98c1f7eabc, type: 2}
+  - weapon: {fileID: 11400000, guid: d4d0913ec9eadda4788e7f0e220b5be6, type: 2}
+    item: {fileID: 11400000, guid: d51afa2a8c62d1148a35d4b6c7ed41db, type: 2}
+  - weapon: {fileID: 11400000, guid: 835396ee5cd39a44a9198e5367c66853, type: 2}
+    item: {fileID: 11400000, guid: cf105d506a27abb4d80166b34ff9f14f, type: 2}
+  - weapon: {fileID: 11400000, guid: 475eb318bfdd80e4fac2db4fd6f9d44c, type: 2}
+    item: {fileID: 11400000, guid: a22f4f1bd030a5849a1a7f07a5a509ae, type: 2}
+  - weapon: {fileID: 11400000, guid: 60e594194452897499a7e19eb84603aa, type: 2}
+    item: {fileID: 11400000, guid: 640cb9483288b1743a8f0683e264d2bc, type: 2}
+  - weapon: {fileID: 11400000, guid: fcafb2d2c3929ed4e91ba8446e01a911, type: 2}
+    item: {fileID: 11400000, guid: bab77b9aa830cc541a32053b15ac3819, type: 2}
+  - weapon: {fileID: 11400000, guid: 29d79daf12db96d40a76cdcc72f61141, type: 2}
+    item: {fileID: 11400000, guid: 22297e762792b394bb37f2a79c9b9d59, type: 2}
+  - weapon: {fileID: 11400000, guid: 76d9243d79914f84187c08775b249367, type: 2}
+    item: {fileID: 11400000, guid: a810d80c8cee12e4092979912fccfd88, type: 2}

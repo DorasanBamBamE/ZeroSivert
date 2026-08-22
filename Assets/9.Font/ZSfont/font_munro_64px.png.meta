@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 5180d86b3df668141863d42fc128d346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1298496819557636286
+    second: font_munro_64px_0
+  - first:
+      213: -7183317711183912437
+    second: font_munro_64px_1
+  - first:
+      213: -5973402200887399543
+    second: font_munro_64px_2
+  - first:
+      213: 5373517343459314538
+    second: font_munro_64px_3
+  - first:
+      213: 972688785048030673
+    second: font_munro_64px_4
+  - first:
+      213: 1398276518525789242
+    second: font_munro_64px_5
+  - first:
+      213: -5668123668633253777
+    second: font_munro_64px_6
+  - first:
+      213: -4225057695285980196
+    second: font_munro_64px_7
+  - first:
+      213: -6796925606376061510
+    second: font_munro_64px_8
+  - first:
+      213: -1170062109782978939
+    second: font_munro_64px_9
+  - first:
+      213: -2404379970282195125
+    second: font_munro_64px_10
+  - first:
+      213: -2232606417482290462
+    second: font_munro_64px_11
+  - first:
+      213: -4712728385703537509
+    second: font_munro_64px_12
+  - first:
+      213: -3175150569863139554
+    second: font_munro_64px_13
+  - first:
+      213: -7845405957764559371
+    second: font_munro_64px_14
+  - first:
+      213: -3860847178802809718
+    second: font_munro_64px_15
+  - first:
+      213: 763118441525273204
+    second: font_munro_64px_16
+  - first:
+      213: 5480107082054931822
+    second: font_munro_64px_17
+  - first:
+      213: 5230927510346391125
+    second: font_munro_64px_18
+  - first:
+      213: 6014799134249524384
+    second: font_munro_64px_19
+  - first:
+      213: 6798273702600819348
+    second: font_munro_64px_20
+  - first:
+      213: 2388585952945542368
+    second: font_munro_64px_21
+  - first:
+      213: -6614198061133000872
+    second: font_munro_64px_22
+  - first:
+      213: -3061638157738302130
+    second: font_munro_64px_23
+  - first:
+      213: 4639722496737154230
+    second: font_munro_64px_24
+  - first:
+      213: 4229612152380397472
+    second: font_munro_64px_25
+  - first:
+      213: -2056284614338039751
+    second: font_munro_64px_26
+  - first:
+      213: -3116347533806524283
+    second: font_munro_64px_27
+  - first:
+      213: -1932220786144036622
+    second: font_munro_64px_28
+  - first:
+      213: -1975263057534399940
+    second: font_munro_64px_29
+  - first:
+      213: -2524766102102026283
+    second: font_munro_64px_30
+  - first:
+      213: 1072294589153118565
+    second: font_munro_64px_31
+  - first:
+      213: -4470424755536783189
+    second: font_munro_64px_32
+  - first:
+      213: 1168340149365584128
+    second: font_munro_64px_33
+  - first:
+      213: 5534155001313738819
+    second: font_munro_64px_34
+  - first:
+      213: 264069748121618752
+    second: font_munro_64px_35
+  - first:
+      213: -3100820821283098500
+    second: font_munro_64px_36
+  - first:
+      213: 8759150873134948905
+    second: font_munro_64px_37
+  - first:
+      213: 6145692274570059843
+    second: font_munro_64px_38
+  - first:
+      213: 8021482624440744543
+    second: font_munro_64px_39
+  - first:
+      213: 4425108267580231569
+    second: font_munro_64px_40
+  - first:
+      213: -3375494905120322024
+    second: font_munro_64px_41
+  - first:
+      213: -6258710645001972353
+    second: font_munro_64px_42
+  - first:
+      213: 2167047908120565164
+    second: font_munro_64px_43
+  - first:
+      213: -4762570743667622969
+    second: font_munro_64px_44
+  - first:
+      213: -8575360858200966536
+    second: font_munro_64px_45
+  - first:
+      213: -709371493111796033
+    second: font_munro_64px_46
+  - first:
+      213: -8094933860579759344
+    second: font_munro_64px_47
+  - first:
+      213: -7903865447130923551
+    second: font_munro_64px_48
+  - first:
+      213: -1168766636601071992
+    second: font_munro_64px_49
+  - first:
+      213: 5648361259515750271
+    second: font_munro_64px_50
+  - first:
+      213: 8819987146775179415
+    second: font_munro_64px_51
+  - first:
+      213: 8857990248475829448
+    second: font_munro_64px_52
+  - first:
+      213: 1451104952268713901
+    second: font_munro_64px_53
+  - first:
+      213: -825254496084015517
+    second: font_munro_64px_54
+  - first:
+      213: 7401306884076766505
+    second: font_munro_64px_55
+  - first:
+      213: -3641285902940145107
+    second: font_munro_64px_56
+  - first:
+      213: 4259759312691571230
+    second: font_munro_64px_57
+  - first:
+      213: -6120063169384436205
+    second: font_munro_64px_58
+  - first:
+      213: 504203063579976823
+    second: font_munro_64px_59
+  - first:
+      213: 4267871639505759341
+    second: font_munro_64px_60
+  - first:
+      213: -6175057071259057862
+    second: font_munro_64px_61
+  - first:
+      213: 6644624375865154184
+    second: font_munro_64px_62
+  - first:
+      213: 781262360236327268
+    second: font_munro_64px_63
+  - first:
+      213: -551665691999094316
+    second: font_munro_64px_64
+  - first:
+      213: 7191739237189459964
+    second: font_munro_64px_65
+  - first:
+      213: 1100692766487494432
+    second: font_munro_64px_66
+  - first:
+      213: 4235609595734938378
+    second: font_munro_64px_67
+  - first:
+      213: -3706892504329777583
+    second: font_munro_64px_68
+  - first:
+      213: -909831602200555035
+    second: font_munro_64px_69
+  - first:
+      213: -28194768773207409
+    second: font_munro_64px_70
+  - first:
+      213: 6234901378582254916
+    second: font_munro_64px_71
+  - first:
+      213: 3248824083735869138
+    second: font_munro_64px_72
+  - first:
+      213: 35233122112389668
+    second: font_munro_64px_73
+  - first:
+      213: -3503106172349163503
+    second: font_munro_64px_74
+  - first:
+      213: 8567886884340027207
+    second: font_munro_64px_75
+  - first:
+      213: -3505020230319248266
+    second: font_munro_64px_76
+  - first:
+      213: -3963889072572428065
+    second: font_munro_64px_77
+  - first:
+      213: 4470579704393053436
+    second: font_munro_64px_78
+  - first:
+      213: -8459772693849495836
+    second: font_munro_64px_79
+  - first:
+      213: -4206735458840620369
+    second: font_munro_64px_80
+  - first:
+      213: -8207940798756994852
+    second: font_munro_64px_81
+  - first:
+      213: -3952068336468563877
+    second: font_munro_64px_82
+  - first:
+      213: -2128895021728989353
+    second: font_munro_64px_83
+  - first:
+      213: -5756382583971512825
+    second: font_munro_64px_84
+  - first:
+      213: 2492915456751946120
+    second: font_munro_64px_85
+  - first:
+      213: 3072879514185356823
+    second: font_munro_64px_86
+  - first:
+      213: -3072338453351604982
+    second: font_munro_64px_87
+  - first:
+      213: 1010113883383474877
+    second: font_munro_64px_88
+  - first:
+      213: -2071808304253839244
+    second: font_munro_64px_89
+  - first:
+      213: 4500176450669666675
+    second: font_munro_64px_90
+  - first:
+      213: -2440752601305345909
+    second: font_munro_64px_91
+  - first:
+      213: -2472574655996596396
+    second: font_munro_64px_92
+  - first:
+      213: 7917962952481785603
+    second: font_munro_64px_93
+  - first:
+      213: 4989478248199052797
+    second: font_munro_64px_94
+  - first:
+      213: -1550740265457351920
+    second: font_munro_64px_95
+  - first:
+      213: 4023362570027712497
+    second: font_munro_64px_96
+  - first:
+      213: 8391390145244471455
+    second: font_munro_64px_97
+  - first:
+      213: -4983414804530525766
+    second: font_munro_64px_98
+  - first:
+      213: 8383577143485838151
+    second: font_munro_64px_99
+  - first:
+      213: 5345238307444791242
+    second: font_munro_64px_100
+  - first:
+      213: 6874367392387761266
+    second: font_munro_64px_101
+  - first:
+      213: 9045782243604624810
+    second: font_munro_64px_102
+  - first:
+      213: 1149191218878482279
+    second: font_munro_64px_103
+  - first:
+      213: 7154058751958809395
+    second: font_munro_64px_104
+  - first:
+      213: 5343576572102155522
+    second: font_munro_64px_105
+  - first:
+      213: -1504367286135085196
+    second: font_munro_64px_106
+  - first:
+      213: 268109967935554761
+    second: font_munro_64px_107
+  - first:
+      213: 157089559671055296
+    second: font_munro_64px_108
+  - first:
+      213: -4770513648607894203
+    second: font_munro_64px_109
+  - first:
+      213: 1034188478869325152
+    second: font_munro_64px_110
+  - first:
+      213: 5057015644198250077
+    second: font_munro_64px_111
+  - first:
+      213: 1374825162888578287
+    second: font_munro_64px_112
+  - first:
+      213: -5251477877840826704
+    second: font_munro_64px_113
+  - first:
+      213: -2931780118688771346
+    second: font_munro_64px_114
+  - first:
+      213: -282726573291506015
+    second: font_munro_64px_115
+  - first:
+      213: -8008551981412318942
+    second: font_munro_64px_116
+  - first:
+      213: 3831468233250001762
+    second: font_munro_64px_117
+  - first:
+      213: 2009530786286009308
+    second: font_munro_64px_118
+  - first:
+      213: -4056338822068858258
+    second: font_munro_64px_119
+  - first:
+      213: -7741828183172246631
+    second: font_munro_64px_120
+  - first:
+      213: -971767839271316609
+    second: font_munro_64px_121
+  - first:
+      213: -7636374707093827448
+    second: font_munro_64px_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: font_munro_64px_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 491
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb815b74aff250210800000000000000
+      internalID: 1298496819557636286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026c1cb99abf4c90800000000000000
+      internalID: -7183317711183912437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98be193c8563a1da0800000000000000
+      internalID: -5973402200887399543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 431
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0b43cd81929a40800000000000000
+      internalID: 5373517343459314538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 431
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd4bc5eb4faf7d00800000000000000
+      internalID: 972688785048030673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 431
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ef70d51da76310800000000000000
+      internalID: 1398276518525789242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_6
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68812ced87c651b0800000000000000
+      internalID: -5668123668633253777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 439
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d2f459649d55c0800000000000000
+      internalID: -4225057695285980196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 431
+        width: 10
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5c2333c287ca1a0800000000000000
+      internalID: -6796925606376061510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 431
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ecd3dd5ba13cfe0800000000000000
+      internalID: -1170062109782978939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 439
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47f34ee72de1aed0800000000000000
+      internalID: -2404379970282195125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 439
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eae5baca403401e0800000000000000
+      internalID: -2232606417482290462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 439
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949d379086099eb0800000000000000
+      internalID: -4712728385703537509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 439
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fadee11699fe3d0800000000000000
+      internalID: -3175150569863139554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 439
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc5b029d48f1390800000000000000
+      internalID: -7845405957764559371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84b36f42f38b6ac0800000000000000
+      internalID: -3860847178802809718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472e9aced24279a00800000000000000
+      internalID: 763118441525273204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 439
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e659cf43b504d0c40800000000000000
+      internalID: 5480107082054931822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 439
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ed3042bdcf79840800000000000000
+      internalID: 5230927510346391125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac1540e1fbd87350800000000000000
+      internalID: 6014799134249524384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c669e9e1585e50800000000000000
+      internalID: 6798273702600819348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49ec8d446f52120800000000000000
+      internalID: 2388585952945542368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f071c28e5a534a0800000000000000
+      internalID: -6614198061133000872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_23
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 439
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e452a391150e285d0800000000000000
+      internalID: -3061638157738302130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 439
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4186a470b936040800000000000000
+      internalID: 4639722496737154230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_25
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 439
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a71f48d7d992ba30800000000000000
+      internalID: 4229612152380397472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_26
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 439
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930b745b90c9673e0800000000000000
+      internalID: -2056284614338039751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 439
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5882ccadd6280c4d0800000000000000
+      internalID: -3116347533806524283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_28
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 439
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8324eae6f5f25e0800000000000000
+      internalID: -1932220786144036622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 439
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ac5bde6b47694e0800000000000000
+      internalID: -1975263057534399940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_30
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 439
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7d24f5b9a36fcd0800000000000000
+      internalID: -2524766102102026283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_31
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5698b016f3e81ee00800000000000000
+      internalID: 1072294589153118565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_32
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81e13ce5cd5f1c0800000000000000
+      internalID: -4470424755536783189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_33
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00133cbfc27c63010800000000000000
+      internalID: 1168340149365584128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 431
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c14907a44dcc40800000000000000
+      internalID: 5534155001313738819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 431
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04947bc690a2aa300800000000000000
+      internalID: 264069748121618752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_36
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 431
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70394354eba7f4d0800000000000000
+      internalID: -3100820821283098500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e247af41ce8970800000000000000
+      internalID: 8759150873134948905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3406c9cff82e94550800000000000000
+      internalID: 6145692274570059843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a32c182f7025f60800000000000000
+      internalID: 8021482624440744543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 339
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f83cd2684296d30800000000000000
+      internalID: 4425108267580231569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 339
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e89279445d721d0800000000000000
+      internalID: -3375494905120322024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 339
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7593b414d79429a0800000000000000
+      internalID: -6258710645001972353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca597c64796e21e10800000000000000
+      internalID: 2167047908120565164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_44
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbf50e4423f7edb0800000000000000
+      internalID: -4762570743667622969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a7422dbb23ef880800000000000000
+      internalID: -8575360858200966536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 339
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe684ba26ec726f0800000000000000
+      internalID: -709371493111796033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 339
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bacd7ea8409af80800000000000000
+      internalID: -8094933860579759344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_48
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf6479044df4290800000000000000
+      internalID: -7903865447130923551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 339
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886a018bfe4b7cfe0800000000000000
+      internalID: -1168766636601071992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_50
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 339
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a384a3a2036e40800000000000000
+      internalID: 5648361259515750271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790bb076493e66a70800000000000000
+      internalID: 8819987146775179415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_52
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4a6480337edea70800000000000000
+      internalID: 8857990248475829448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_53
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf69cb044c532410800000000000000
+      internalID: 1451104952268713901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 339
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3664e9f786b1c84f0800000000000000
+      internalID: -825254496084015517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_55
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 339
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9258c03b569b6b660800000000000000
+      internalID: 7401306884076766505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 339
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a7d9d73cd877dc0800000000000000
+      internalID: -3641285902940145107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_57
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 339
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa4a59684bd1b30800000000000000
+      internalID: 4259759312691571230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 339
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea3e119fa211ba0800000000000000
+      internalID: -6120063169384436205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_59
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 331
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7742953d30a4ff600800000000000000
+      internalID: 504203063579976823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_60
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 339
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c64bbd4a68a3b30800000000000000
+      internalID: 4267871639505759341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_61
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 381
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3107df7f4acd4aa0800000000000000
+      internalID: -6175057071259057862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_62
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 339
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a18554aa2763c50800000000000000
+      internalID: 6644624375865154184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_63
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 339
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46105423af997da00800000000000000
+      internalID: 781262360236327268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_64
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 381
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9bf99d9f61858f0800000000000000
+      internalID: -551665691999094316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_65
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 373
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff9ae59bb03ec360800000000000000
+      internalID: 7191739237189459964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_66
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 339
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f34594d32764f00800000000000000
+      internalID: 1100692766487494432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_67
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 364
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0354017c78e7ca30800000000000000
+      internalID: 4235609595734938378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_68
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 339
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e8dd248e87e8cc0800000000000000
+      internalID: -3706892504329777583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_69
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 356
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e159617af0af53f0800000000000000
+      internalID: -909831602200555035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_70
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 347
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aafb6d105db9ff0800000000000000
+      internalID: -28194768773207409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_71
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 339
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4451df715c1d68650800000000000000
+      internalID: 6234901378582254916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_72
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67fc88a44261d20800000000000000
+      internalID: 3248824083735869138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_73
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 331
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42246df765c2d7000800000000000000
+      internalID: 35233122112389668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_74
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 331
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11856aa1f77726fc0800000000000000
+      internalID: -3503106172349163503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_75
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 331
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fc0d80abf37e670800000000000000
+      internalID: 8567886884340027207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c6341cbaaab5fc0800000000000000
+      internalID: -3505020230319248266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 273
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0944cd3ef6df8c0800000000000000
+      internalID: -3963889072572428065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 273
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf43b641e80ba0e30800000000000000
+      internalID: 4470579704393053436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 264
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62d868e89d89a80800000000000000
+      internalID: -8459772693849495836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_80
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2d3cf636cae95c0800000000000000
+      internalID: -4206735458840620369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_81
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 290
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd047a0c459871e80800000000000000
+      internalID: -8207940798756994852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_82
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 248
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e8b479ce6729c0800000000000000
+      internalID: -3952068336468563877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_83
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 247
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ffeb1d145a472e0800000000000000
+      internalID: -2128895021728989353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_84
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 247
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ef12bd9883d10b0800000000000000
+      internalID: -5756382583971512825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_85
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 228
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c7ce566d989220800000000000000
+      internalID: 2492915456751946120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_86
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 239
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d79823af05aa20800000000000000
+      internalID: 3072879514185356823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d5432647cdc55d0800000000000000
+      internalID: -3072338453351604982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba23c1a935a40e00800000000000000
+      internalID: 1010113883383474877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_89
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478de3ef2557f33e0800000000000000
+      internalID: -2071808304253839244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3716eb093a6d37e30800000000000000
+      internalID: 4500176450669666675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_91
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 239
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b809596d074b02ed0800000000000000
+      internalID: -2440752601305345909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 239
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f60bc5376afadd0800000000000000
+      internalID: -2472574655996596396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074167aa5142ed60800000000000000
+      internalID: 7917962952481785603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_94
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 239
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd517608003e3540800000000000000
+      internalID: 4989478248199052797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 239
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013058ad1f9aa7ae0800000000000000
+      internalID: -1550740265457351920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_96
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffba15d0fad5d730800000000000000
+      internalID: 4023362570027712497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_97
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90a20ba0e4347470800000000000000
+      internalID: 8391390145244471455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 239
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9098773aa57dab0800000000000000
+      internalID: -4983414804530525766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_99
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 239
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743be807ef2785470800000000000000
+      internalID: 8383577143485838151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_100
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac79e0b9be91e2a40800000000000000
+      internalID: 5345238307444791242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_101
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 239
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2740dcea8b8a66f50800000000000000
+      internalID: 6874367392387761266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_102
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f6912603198d70800000000000000
+      internalID: 9045782243604624810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_103
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767004c235fb2ff00800000000000000
+      internalID: 1149191218878482279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_104
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 256
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b77c4f782584360800000000000000
+      internalID: 7154058751958809395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_105
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 256
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d9f32b492382a40800000000000000
+      internalID: 5343576572102155522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_106
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 273
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477233a7ce96f1be0800000000000000
+      internalID: -1504367286135085196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_107
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 256
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44a87689488b300800000000000000
+      internalID: 268109967935554761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_108
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 273
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3ad1a4f181e2200800000000000000
+      internalID: 157089559671055296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_109
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 239
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545e292ac1bbbcdb0800000000000000
+      internalID: -4770513648607894203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_110
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 256
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065cec131fc2a5e00800000000000000
+      internalID: 1034188478869325152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_111
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 260
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56a7086fe02e2640800000000000000
+      internalID: 5057015644198250077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_112
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe40e36933c541310800000000000000
+      internalID: 1374825162888578287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bea97191b00f17b0800000000000000
+      internalID: -5251477877840826704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_114
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d00ae3893057d0800000000000000
+      internalID: -2931780118688771346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_115
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67566fdad831cf0800000000000000
+      internalID: -282726573291506015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2210bae6768ebd090800000000000000
+      internalID: -8008551981412318942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_117
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 248
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2635f03ee0c1c2530800000000000000
+      internalID: 3831468233250001762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_118
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 239
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf9c96a9943eb10800000000000000
+      internalID: 2009530786286009308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_119
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6295fd255df4b7c0800000000000000
+      internalID: -4056338822068858258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_120
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 231
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99319ed09408f8490800000000000000
+      internalID: -7741828183172246631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_121
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 239
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7395108c469382f0800000000000000
+      internalID: -971767839271316609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_munro_64px_122
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88015e3c9a5260690800000000000000
+      internalID: -7636374707093827448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      font_munro_64px_0: 1298496819557636286
+      font_munro_64px_1: -7183317711183912437
+      font_munro_64px_10: -2404379970282195125
+      font_munro_64px_100: 5345238307444791242
+      font_munro_64px_101: 6874367392387761266
+      font_munro_64px_102: 9045782243604624810
+      font_munro_64px_103: 1149191218878482279
+      font_munro_64px_104: 7154058751958809395
+      font_munro_64px_105: 5343576572102155522
+      font_munro_64px_106: -1504367286135085196
+      font_munro_64px_107: 268109967935554761
+      font_munro_64px_108: 157089559671055296
+      font_munro_64px_109: -4770513648607894203
+      font_munro_64px_11: -2232606417482290462
+      font_munro_64px_110: 1034188478869325152
+      font_munro_64px_111: 5057015644198250077
+      font_munro_64px_112: 1374825162888578287
+      font_munro_64px_113: -5251477877840826704
+      font_munro_64px_114: -2931780118688771346
+      font_munro_64px_115: -282726573291506015
+      font_munro_64px_116: -8008551981412318942
+      font_munro_64px_117: 3831468233250001762
+      font_munro_64px_118: 2009530786286009308
+      font_munro_64px_119: -4056338822068858258
+      font_munro_64px_12: -4712728385703537509
+      font_munro_64px_120: -7741828183172246631
+      font_munro_64px_121: -971767839271316609
+      font_munro_64px_122: -7636374707093827448
+      font_munro_64px_13: -3175150569863139554
+      font_munro_64px_14: -7845405957764559371
+      font_munro_64px_15: -3860847178802809718
+      font_munro_64px_16: 763118441525273204
+      font_munro_64px_17: 5480107082054931822
+      font_munro_64px_18: 5230927510346391125
+      font_munro_64px_19: 6014799134249524384
+      font_munro_64px_2: -5973402200887399543
+      font_munro_64px_20: 6798273702600819348
+      font_munro_64px_21: 2388585952945542368
+      font_munro_64px_22: -6614198061133000872
+      font_munro_64px_23: -3061638157738302130
+      font_munro_64px_24: 4639722496737154230
+      font_munro_64px_25: 4229612152380397472
+      font_munro_64px_26: -2056284614338039751
+      font_munro_64px_27: -3116347533806524283
+      font_munro_64px_28: -1932220786144036622
+      font_munro_64px_29: -1975263057534399940
+      font_munro_64px_3: 5373517343459314538
+      font_munro_64px_30: -2524766102102026283
+      font_munro_64px_31: 1072294589153118565
+      font_munro_64px_32: -4470424755536783189
+      font_munro_64px_33: 1168340149365584128
+      font_munro_64px_34: 5534155001313738819
+      font_munro_64px_35: 264069748121618752
+      font_munro_64px_36: -3100820821283098500
+      font_munro_64px_37: 8759150873134948905
+      font_munro_64px_38: 6145692274570059843
+      font_munro_64px_39: 8021482624440744543
+      font_munro_64px_4: 972688785048030673
+      font_munro_64px_40: 4425108267580231569
+      font_munro_64px_41: -3375494905120322024
+      font_munro_64px_42: -6258710645001972353
+      font_munro_64px_43: 2167047908120565164
+      font_munro_64px_44: -4762570743667622969
+      font_munro_64px_45: -8575360858200966536
+      font_munro_64px_46: -709371493111796033
+      font_munro_64px_47: -8094933860579759344
+      font_munro_64px_48: -7903865447130923551
+      font_munro_64px_49: -1168766636601071992
+      font_munro_64px_5: 1398276518525789242
+      font_munro_64px_50: 5648361259515750271
+      font_munro_64px_51: 8819987146775179415
+      font_munro_64px_52: 8857990248475829448
+      font_munro_64px_53: 1451104952268713901
+      font_munro_64px_54: -825254496084015517
+      font_munro_64px_55: 7401306884076766505
+      font_munro_64px_56: -3641285902940145107
+      font_munro_64px_57: 4259759312691571230
+      font_munro_64px_58: -6120063169384436205
+      font_munro_64px_59: 504203063579976823
+      font_munro_64px_6: -5668123668633253777
+      font_munro_64px_60: 4267871639505759341
+      font_munro_64px_61: -6175057071259057862
+      font_munro_64px_62: 6644624375865154184
+      font_munro_64px_63: 781262360236327268
+      font_munro_64px_64: -551665691999094316
+      font_munro_64px_65: 7191739237189459964
+      font_munro_64px_66: 1100692766487494432
+      font_munro_64px_67: 4235609595734938378
+      font_munro_64px_68: -3706892504329777583
+      font_munro_64px_69: -909831602200555035
+      font_munro_64px_7: -4225057695285980196
+      font_munro_64px_70: -28194768773207409
+      font_munro_64px_71: 6234901378582254916
+      font_munro_64px_72: 3248824083735869138
+      font_munro_64px_73: 35233122112389668
+      font_munro_64px_74: -3503106172349163503
+      font_munro_64px_75: 8567886884340027207
+      font_munro_64px_76: -3505020230319248266
+      font_munro_64px_77: -3963889072572428065
+      font_munro_64px_78: 4470579704393053436
+      font_munro_64px_79: -8459772693849495836
+      font_munro_64px_8: -6796925606376061510
+      font_munro_64px_80: -4206735458840620369
+      font_munro_64px_81: -8207940798756994852
+      font_munro_64px_82: -3952068336468563877
+      font_munro_64px_83: -2128895021728989353
+      font_munro_64px_84: -5756382583971512825
+      font_munro_64px_85: 2492915456751946120
+      font_munro_64px_86: 3072879514185356823
+      font_munro_64px_87: -3072338453351604982
+      font_munro_64px_88: 1010113883383474877
+      font_munro_64px_89: -2071808304253839244
+      font_munro_64px_9: -1170062109782978939
+      font_munro_64px_90: 4500176450669666675
+      font_munro_64px_91: -2440752601305345909
+      font_munro_64px_92: -2472574655996596396
+      font_munro_64px_93: 7917962952481785603
+      font_munro_64px_94: 4989478248199052797
+      font_munro_64px_95: -1550740265457351920
+      font_munro_64px_96: 4023362570027712497
+      font_munro_64px_97: 8391390145244471455
+      font_munro_64px_98: -4983414804530525766
+      font_munro_64px_99: 8383577143485838151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

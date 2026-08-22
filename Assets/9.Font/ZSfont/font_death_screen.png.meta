@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: 760ba295c611242418f14cc35383a0df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4357462197112132243
+    second: font_death_screen_0
+  - first:
+      213: 4595118101366233270
+    second: font_death_screen_1
+  - first:
+      213: 2637975984002209934
+    second: font_death_screen_2
+  - first:
+      213: 2984085370999224561
+    second: font_death_screen_3
+  - first:
+      213: -4492348185801773068
+    second: font_death_screen_4
+  - first:
+      213: -3956240200791929989
+    second: font_death_screen_5
+  - first:
+      213: -8206806495269345609
+    second: font_death_screen_6
+  - first:
+      213: -4127206615937728685
+    second: font_death_screen_7
+  - first:
+      213: 5043458271770299084
+    second: font_death_screen_8
+  - first:
+      213: 7969362338914758959
+    second: font_death_screen_9
+  - first:
+      213: 4072635320938166679
+    second: font_death_screen_10
+  - first:
+      213: -2844727756550234109
+    second: font_death_screen_11
+  - first:
+      213: -5800697300664172205
+    second: font_death_screen_12
+  - first:
+      213: 2935886791354937411
+    second: font_death_screen_13
+  - first:
+      213: 4606835324764216032
+    second: font_death_screen_14
+  - first:
+      213: -4451407611648193633
+    second: font_death_screen_15
+  - first:
+      213: -1413715244285940086
+    second: font_death_screen_16
+  - first:
+      213: 749399943693363936
+    second: font_death_screen_17
+  - first:
+      213: 8307617590160268335
+    second: font_death_screen_18
+  - first:
+      213: 5443564587331890592
+    second: font_death_screen_19
+  - first:
+      213: -5256832467562203475
+    second: font_death_screen_20
+  - first:
+      213: 6958161698290734774
+    second: font_death_screen_21
+  - first:
+      213: -5624216877180394523
+    second: font_death_screen_22
+  - first:
+      213: -6857863243032483422
+    second: font_death_screen_23
+  - first:
+      213: -8756448326420862463
+    second: font_death_screen_24
+  - first:
+      213: 2863523125311920685
+    second: font_death_screen_25
+  - first:
+      213: 1830855681654866226
+    second: font_death_screen_26
+  - first:
+      213: -3719538410488853263
+    second: font_death_screen_27
+  - first:
+      213: 2049014606813917420
+    second: font_death_screen_28
+  - first:
+      213: 4198409026152459417
+    second: font_death_screen_29
+  - first:
+      213: 6574598532372262533
+    second: font_death_screen_30
+  - first:
+      213: -8689198905768617336
+    second: font_death_screen_31
+  - first:
+      213: -6005687376686102777
+    second: font_death_screen_32
+  - first:
+      213: -4021163884315572778
+    second: font_death_screen_33
+  - first:
+      213: 8195866664075380092
+    second: font_death_screen_34
+  - first:
+      213: -7122244083165911452
+    second: font_death_screen_35
+  - first:
+      213: 1636327284233153788
+    second: font_death_screen_36
+  - first:
+      213: -5448600131679726196
+    second: font_death_screen_37
+  - first:
+      213: 3528600570054206529
+    second: font_death_screen_38
+  - first:
+      213: 321354962194577943
+    second: font_death_screen_39
+  - first:
+      213: 4577868319306992929
+    second: font_death_screen_40
+  - first:
+      213: -7928742321052023214
+    second: font_death_screen_41
+  - first:
+      213: 7148201147857318150
+    second: font_death_screen_42
+  - first:
+      213: 2666908359083488904
+    second: font_death_screen_43
+  - first:
+      213: -1808464409062708052
+    second: font_death_screen_44
+  - first:
+      213: 65808773675064783
+    second: font_death_screen_45
+  - first:
+      213: 1846812845305509964
+    second: font_death_screen_46
+  - first:
+      213: -6763472486149585640
+    second: font_death_screen_47
+  - first:
+      213: -3656761212497663399
+    second: font_death_screen_48
+  - first:
+      213: 2704140151506459750
+    second: font_death_screen_49
+  - first:
+      213: 6844329120187736812
+    second: font_death_screen_50
+  - first:
+      213: -7905903903605746878
+    second: font_death_screen_51
+  - first:
+      213: -8476720718074350178
+    second: font_death_screen_52
+  - first:
+      213: 7843364079316384523
+    second: font_death_screen_53
+  - first:
+      213: -6508109856493199091
+    second: font_death_screen_54
+  - first:
+      213: -3654632381697461
+    second: font_death_screen_55
+  - first:
+      213: -2677647846035361890
+    second: font_death_screen_56
+  - first:
+      213: 8618026775974430511
+    second: font_death_screen_57
+  - first:
+      213: 2624583413201593632
+    second: font_death_screen_58
+  - first:
+      213: -5173555443484446080
+    second: font_death_screen_59
+  - first:
+      213: 44492155695511310
+    second: font_death_screen_60
+  - first:
+      213: 8441374412641400021
+    second: font_death_screen_61
+  - first:
+      213: -5960924950690268336
+    second: font_death_screen_62
+  - first:
+      213: 4904724071685798571
+    second: font_death_screen_63
+  - first:
+      213: -6774892282797581355
+    second: font_death_screen_64
+  - first:
+      213: -8719940518633198386
+    second: font_death_screen_65
+  - first:
+      213: 1145950109469557570
+    second: font_death_screen_66
+  - first:
+      213: 6215138025892047542
+    second: font_death_screen_67
+  - first:
+      213: 1150668658272221872
+    second: font_death_screen_68
+  - first:
+      213: -6192452245049627002
+    second: font_death_screen_69
+  - first:
+      213: 1055903708556183901
+    second: font_death_screen_70
+  - first:
+      213: 5109800471261028368
+    second: font_death_screen_71
+  - first:
+      213: 2948195227338267856
+    second: font_death_screen_72
+  - first:
+      213: -7774720214698295260
+    second: font_death_screen_73
+  - first:
+      213: 1138690438021606639
+    second: font_death_screen_74
+  - first:
+      213: -5659002351662657569
+    second: font_death_screen_75
+  - first:
+      213: -6458542966558981332
+    second: font_death_screen_76
+  - first:
+      213: -6572575047417076556
+    second: font_death_screen_77
+  - first:
+      213: 8501068295584742897
+    second: font_death_screen_78
+  - first:
+      213: -938887555988924709
+    second: font_death_screen_79
+  - first:
+      213: -6262139632288230910
+    second: font_death_screen_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: font_death_screen_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 223
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d20f2f73f2783c0800000000000000
+      internalID: -4357462197112132243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d6e4319325cf30800000000000000
+      internalID: 4595118101366233270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 242
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88967c4e29fb9420800000000000000
+      internalID: 2637975984002209934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 217
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f839d5a5d9996920800000000000000
+      internalID: 2984085370999224561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 219
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff2ae16029f7a1c0800000000000000
+      internalID: -4492348185801773068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b4da99f7c9819c0800000000000000
+      internalID: -3956240200791929989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 217
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b62a1d59f09b1e80800000000000000
+      internalID: -8206806495269345609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 223
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fb36e137739b6c0800000000000000
+      internalID: -4127206615937728685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccacf58a396fdf540800000000000000
+      internalID: 5043458271770299084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 223
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f361e2dcd89e60800000000000000
+      internalID: 7969362338914758959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 223
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7997a342f38e48830800000000000000
+      internalID: 4072635320938166679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 223
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300212c6d2f7588d0800000000000000
+      internalID: -2844727756550234109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 223
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514858d988cf7fa0800000000000000
+      internalID: -5800697300664172205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 223
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340f8735b7d5eb820800000000000000
+      internalID: 2935886791354937411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 223
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eada4fd154ceef30800000000000000
+      internalID: 4606835324764216032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 223
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b4d3d9c5c6932c0800000000000000
+      internalID: -4451407611648193633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 220
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e28cab979716ce0800000000000000
+      internalID: -1413715244285940086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea6a8e3747666a00800000000000000
+      internalID: 749399943693363936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c1a4fbe269a4370800000000000000
+      internalID: 8307617590160268335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 184
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad20d3a62d6b8b40800000000000000
+      internalID: 5443564587331890592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f63ff8bafb07b0800000000000000
+      internalID: -5256832467562203475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 178
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6195cd23b509060800000000000000
+      internalID: 6958161698290734774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 178
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3e7ef6c84c2f1b0800000000000000
+      internalID: -5624216877180394523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a927d807b9f3d0a0800000000000000
+      internalID: -6857863243032483422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 184
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aee9904a8da7680800000000000000
+      internalID: -8756448326420862463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 178
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a55526c174db720800000000000000
+      internalID: 2863523125311920685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2314b0cca81886910800000000000000
+      internalID: 1830855681654866226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc046ac58b816cc0800000000000000
+      internalID: -3719538410488853263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0fab2cdef8f6c10800000000000000
+      internalID: 2049014606813917420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 184
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c6c91e3ceb34a30800000000000000
+      internalID: 4198409026152459417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6ade088aad3b50800000000000000
+      internalID: 6574598532372262533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 184
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad2fee1a3c96780800000000000000
+      internalID: -8689198905768617336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 184
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707c390862387aca0800000000000000
+      internalID: -6005687376686102777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d58db390c4f138c0800000000000000
+      internalID: -4021163884315572778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 139
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75cda2be419db170800000000000000
+      internalID: 8195866664075380092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466a44bddb4b82d90800000000000000
+      internalID: -7122244083165911452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 145
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc2ff0def665b610800000000000000
+      internalID: 1636327284233153788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 145
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8555145c0fa264b0800000000000000
+      internalID: -5448600131679726196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 145
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144625ce58b18f030800000000000000
+      internalID: 3528600570054206529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 139
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aba60b2aea57400800000000000000
+      internalID: 321354962194577943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dcec85bfad78f30800000000000000
+      internalID: 4577868319306992929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 148
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25686160ed277f190800000000000000
+      internalID: -7928742321052023214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 145
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60133193213833360800000000000000
+      internalID: 7148201147857318150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 145
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f0bfc503c20520800000000000000
+      internalID: 2666908359083488904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 145
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac61ec933b07e6e0800000000000000
+      internalID: -1808464409062708052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 145
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd91022bbcc9e000800000000000000
+      internalID: 65808773675064783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 145
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48301b7f7231a910800000000000000
+      internalID: 1846812845305509964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 145
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8150de6bb915322a0800000000000000
+      internalID: -6763472486149585640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 145
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a66a43d03904dc0800000000000000
+      internalID: -3656761212497663399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 141
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd9610429078520800000000000000
+      internalID: 2704140151506459750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e6ae6211fbfe50800000000000000
+      internalID: 6844329120187736812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24394357946984290800000000000000
+      internalID: -7905903903605746878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_52
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 103
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95fbf22b63ac5a80800000000000000
+      internalID: -8476720718074350178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 103
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b36bff21a39dc60800000000000000
+      internalID: 7843364079316384523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d012184219c8ea5a0800000000000000
+      internalID: -6508109856493199091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ba17912403fff0800000000000000
+      internalID: -3654632381697461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fe877887517dad0800000000000000
+      internalID: -2677647846035361890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_57
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 109
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c2c641b1699770800000000000000
+      internalID: 8618026775974430511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 106
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025634b65b46c6420800000000000000
+      internalID: 2624583413201593632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 106
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082325d1cb6d338b0800000000000000
+      internalID: -5173555443484446080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_60
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 106
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07b58f31611e9000800000000000000
+      internalID: 44492155695511310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 106
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4ff81dd49c52570800000000000000
+      internalID: 8441374412641400021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bf755f65a864da0800000000000000
+      internalID: -5960924950690268336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 106
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab32e8e84111440800000000000000
+      internalID: 4904724071685798571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_64
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 106
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db905c1d5fbaf1a0800000000000000
+      internalID: -6774892282797581355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc255c6c4c8cf680800000000000000
+      internalID: -8719940518633198386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243c0459d8b37ef00800000000000000
+      internalID: 1145950109469557570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_67
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 67
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba6157fa1b904650800000000000000
+      internalID: 6215138025892047542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0babd765c0ff7ff00800000000000000
+      internalID: 1150668658272221872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 67
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2f3dfd7dff0aa0800000000000000
+      internalID: -6192452245049627002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59428914d257ae00800000000000000
+      internalID: 1055903708556183901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 67
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01023aaa478a9e640800000000000000
+      internalID: 5109800471261028368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 67
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcdff560f71ae820800000000000000
+      internalID: 2948195227338267856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 74
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4200cde2825aa1490800000000000000
+      internalID: -7774720214698295260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec696b9be07dcf00800000000000000
+      internalID: 1138690438021606639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 67
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf0c06085f2771b0800000000000000
+      internalID: -5659002351662657569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_76
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2387a70465ae56a0800000000000000
+      internalID: -6458542966558981332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4eb1f31d589c4a0800000000000000
+      internalID: -6572575047417076556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_78
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 64
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdf9a1039cd9f570800000000000000
+      internalID: 8501068295584742897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_79
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 67
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6de350eb668f2f0800000000000000
+      internalID: -938887555988924709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_death_screen_80
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 63
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2029093ce296819a0800000000000000
+      internalID: -6262139632288230910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      font_death_screen_0: -4357462197112132243
+      font_death_screen_1: 4595118101366233270
+      font_death_screen_10: 4072635320938166679
+      font_death_screen_11: -2844727756550234109
+      font_death_screen_12: -5800697300664172205
+      font_death_screen_13: 2935886791354937411
+      font_death_screen_14: 4606835324764216032
+      font_death_screen_15: -4451407611648193633
+      font_death_screen_16: -1413715244285940086
+      font_death_screen_17: 749399943693363936
+      font_death_screen_18: 8307617590160268335
+      font_death_screen_19: 5443564587331890592
+      font_death_screen_2: 2637975984002209934
+      font_death_screen_20: -5256832467562203475
+      font_death_screen_21: 6958161698290734774
+      font_death_screen_22: -5624216877180394523
+      font_death_screen_23: -6857863243032483422
+      font_death_screen_24: -8756448326420862463
+      font_death_screen_25: 2863523125311920685
+      font_death_screen_26: 1830855681654866226
+      font_death_screen_27: -3719538410488853263
+      font_death_screen_28: 2049014606813917420
+      font_death_screen_29: 4198409026152459417
+      font_death_screen_3: 2984085370999224561
+      font_death_screen_30: 6574598532372262533
+      font_death_screen_31: -8689198905768617336
+      font_death_screen_32: -6005687376686102777
+      font_death_screen_33: -4021163884315572778
+      font_death_screen_34: 8195866664075380092
+      font_death_screen_35: -7122244083165911452
+      font_death_screen_36: 1636327284233153788
+      font_death_screen_37: -5448600131679726196
+      font_death_screen_38: 3528600570054206529
+      font_death_screen_39: 321354962194577943
+      font_death_screen_4: -4492348185801773068
+      font_death_screen_40: 4577868319306992929
+      font_death_screen_41: -7928742321052023214
+      font_death_screen_42: 7148201147857318150
+      font_death_screen_43: 2666908359083488904
+      font_death_screen_44: -1808464409062708052
+      font_death_screen_45: 65808773675064783
+      font_death_screen_46: 1846812845305509964
+      font_death_screen_47: -6763472486149585640
+      font_death_screen_48: -3656761212497663399
+      font_death_screen_49: 2704140151506459750
+      font_death_screen_5: -3956240200791929989
+      font_death_screen_50: 6844329120187736812
+      font_death_screen_51: -7905903903605746878
+      font_death_screen_52: -8476720718074350178
+      font_death_screen_53: 7843364079316384523
+      font_death_screen_54: -6508109856493199091
+      font_death_screen_55: -3654632381697461
+      font_death_screen_56: -2677647846035361890
+      font_death_screen_57: 8618026775974430511
+      font_death_screen_58: 2624583413201593632
+      font_death_screen_59: -5173555443484446080
+      font_death_screen_6: -8206806495269345609
+      font_death_screen_60: 44492155695511310
+      font_death_screen_61: 8441374412641400021
+      font_death_screen_62: -5960924950690268336
+      font_death_screen_63: 4904724071685798571
+      font_death_screen_64: -6774892282797581355
+      font_death_screen_65: -8719940518633198386
+      font_death_screen_66: 1145950109469557570
+      font_death_screen_67: 6215138025892047542
+      font_death_screen_68: 1150668658272221872
+      font_death_screen_69: -6192452245049627002
+      font_death_screen_7: -4127206615937728685
+      font_death_screen_70: 1055903708556183901
+      font_death_screen_71: 5109800471261028368
+      font_death_screen_72: 2948195227338267856
+      font_death_screen_73: -7774720214698295260
+      font_death_screen_74: 1138690438021606639
+      font_death_screen_75: -5659002351662657569
+      font_death_screen_76: -6458542966558981332
+      font_death_screen_77: -6572575047417076556
+      font_death_screen_78: 8501068295584742897
+      font_death_screen_79: -938887555988924709
+      font_death_screen_8: 5043458271770299084
+      font_death_screen_80: -6262139632288230910
+      font_death_screen_9: 7969362338914758959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

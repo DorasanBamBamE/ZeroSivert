@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b400481be849bda49972d78f09800867, type: 3}
+  m_Name: NPC_Doctor
+  m_EditorClassIdentifier: Assembly-CSharp::NPCData
+  npcName: "\uC758\uC0AC"
+  portrait: {fileID: 0}
+  role: 1
+  greeting: "\uB2E4\uCCE4\uB098. \uC544\uB2C8\uBA74 \uBB3C\uAC74\uC778\uAC00."
+  idleLine: "\uB2E4\uC74C."
+  quests:
+  - {fileID: 11400000, guid: 23bc353ccabe7f84d99d07f07bc44b9d, type: 2}
+  sequential: 0
+  merchant: {fileID: 11400000, guid: 01d28c8d135333d4b95f925b6708f37f, type: 2}
+  dailyPool: []
+  dailyOfferCount: 3

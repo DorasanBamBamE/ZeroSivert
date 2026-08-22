@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b400481be849bda49972d78f09800867, type: 3}
+  m_Name: NPC_Networker
+  m_EditorClassIdentifier: Assembly-CSharp::NPCData
+  npcName: "\uB124\uD2B8\uC6CC\uCEE4"
+  portrait: {fileID: 0}
+  role: 2
+  greeting: "\uC624\uB298 \uB4E4\uC5B4\uC628 \uAC74\uC774 \uC788\uB2E4."
+  idleLine: "\uC0C8 \uAC74\uC740 \uB0B4\uC77C."
+  quests: []
+  sequential: 0
+  merchant: {fileID: 0}
+  dailyPool:
+  - {fileID: 11400000, guid: f02ee7f266b77ae4db9d1aa84bcdbbe2, type: 2}
+  - {fileID: 11400000, guid: ff143963c4001ef4593c75c54e61bf1c, type: 2}
+  - {fileID: 11400000, guid: 8112f72017823094f89ba7fa21dd95b2, type: 2}
+  - {fileID: 11400000, guid: dc05846616e71c04f926ccefd68f0b07, type: 2}
+  dailyOfferCount: 3

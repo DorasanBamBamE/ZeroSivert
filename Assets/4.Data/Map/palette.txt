@@ -1,0 +1,58 @@
+P a zc_forest_road_12_0
+P b zc_forest_road_12_1
+P c zc_forest_road_12_10
+P d zc_forest_road_12_19
+P e zc_forest_road_12_2
+P f zc_forest_road_12_20
+P g zc_forest_road_12_21
+P h zc_forest_road_12_7
+P i zc_forest_road_12_9
+P j zc_forest_road_13_10
+P k zc_forest_road_13_19
+P l zc_forest_road_13_20
+P m zc_forest_road_13_21
+P n zc_forest_road_13_7
+P o zc_forest_road_13_8
+P p zc_forest_road_13_9
+P A zc_forest_vr_11_11
+P B zc_forest_vr_12_11
+P C zc_forest_vr_12_18
+P D zc_forest_vr_13_11
+P E zc_forest_vr_13_18
+P F zc_forest_vr_14_18
+P G zc_forest_vr_15_18
+P H zc_forest_vr_16_18
+P I zc_forest_vr_17_18
+P J zc_forest_vr_18_12
+P K zc_forest_vr_18_13
+P L zc_forest_vr_18_14
+P M zc_forest_vr_18_15
+P N zc_forest_vr_18_16
+P O zc_forest_vr_18_17
+P P zc_forest_vr_18_18
+P . zc_forest_grass
+W vr_13_18 32 78 128 20
+W vr_13_18 30 80 2 80
+W vr_13_18 32 98 18 62
+W vr_14_18 0 78 160 20
+W vr_14_18 126 98 20 62
+W vr_15_18 0 78 160 20
+W vr_15_18 110 98 20 62
+W vr_16_18 0 78 160 20
+W vr_17_18 0 78 160 20
+W vr_17_18 30 98 20 62
+W vr_17_18 142 98 18 62
+W vr_18_13 0 0 82 18
+W vr_18_13 62 18 20 126
+W vr_18_13 0 126 62 20
+W vr_18_13 62 144 18 2
+W vr_18_16 0 0 98 16
+W vr_18_16 0 16 96 2
+W vr_18_16 0 46 48 20
+W vr_18_16 48 48 2 96
+W vr_18_16 30 66 18 80
+W vr_18_16 0 126 30 20
+W vr_18_17 78 0 20 160
+W vr_18_18 0 78 96 20
+W vr_18_18 96 80 2 80
+W vr_18_18 78 98 18 62

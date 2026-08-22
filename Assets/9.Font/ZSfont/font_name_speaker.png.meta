@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: 4cb190588cb30f54a92d0ed750d1f3a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1377299445056908861
+    second: font_name_speaker_0
+  - first:
+      213: 6164453216558576948
+    second: font_name_speaker_1
+  - first:
+      213: 2614220277109627237
+    second: font_name_speaker_2
+  - first:
+      213: 3870145062804170847
+    second: font_name_speaker_3
+  - first:
+      213: 7171330804701790135
+    second: font_name_speaker_4
+  - first:
+      213: 6870347480310020409
+    second: font_name_speaker_5
+  - first:
+      213: -3391582201484390011
+    second: font_name_speaker_6
+  - first:
+      213: 8399978239682657769
+    second: font_name_speaker_7
+  - first:
+      213: 3383577271063254856
+    second: font_name_speaker_8
+  - first:
+      213: -8305987249666522125
+    second: font_name_speaker_9
+  - first:
+      213: -2140916776420539134
+    second: font_name_speaker_10
+  - first:
+      213: 9141189181347977330
+    second: font_name_speaker_11
+  - first:
+      213: 6687275399303568196
+    second: font_name_speaker_12
+  - first:
+      213: -1261572827774739388
+    second: font_name_speaker_13
+  - first:
+      213: -2808787225888245299
+    second: font_name_speaker_14
+  - first:
+      213: -2991179710147601393
+    second: font_name_speaker_15
+  - first:
+      213: -8855063961352529125
+    second: font_name_speaker_16
+  - first:
+      213: 350262545106784049
+    second: font_name_speaker_17
+  - first:
+      213: -2404398114325564373
+    second: font_name_speaker_18
+  - first:
+      213: -8162410196926735172
+    second: font_name_speaker_19
+  - first:
+      213: -7426519988302962030
+    second: font_name_speaker_20
+  - first:
+      213: -7066995787239085150
+    second: font_name_speaker_21
+  - first:
+      213: 6795343068385061637
+    second: font_name_speaker_22
+  - first:
+      213: -1612740028929988229
+    second: font_name_speaker_23
+  - first:
+      213: -7461315959909164660
+    second: font_name_speaker_24
+  - first:
+      213: -8963818057120827859
+    second: font_name_speaker_25
+  - first:
+      213: -2136221424921497581
+    second: font_name_speaker_26
+  - first:
+      213: 2875197416018884195
+    second: font_name_speaker_27
+  - first:
+      213: -7734139353798688313
+    second: font_name_speaker_28
+  - first:
+      213: 1208215302282499604
+    second: font_name_speaker_29
+  - first:
+      213: -7947848058682168103
+    second: font_name_speaker_30
+  - first:
+      213: 2588375989575616746
+    second: font_name_speaker_31
+  - first:
+      213: 1488658024478584690
+    second: font_name_speaker_32
+  - first:
+      213: -4479665227219737853
+    second: font_name_speaker_33
+  - first:
+      213: 6127111796814117584
+    second: font_name_speaker_34
+  - first:
+      213: 8902353776891359285
+    second: font_name_speaker_35
+  - first:
+      213: -5902841184156911012
+    second: font_name_speaker_36
+  - first:
+      213: -7510898498012064654
+    second: font_name_speaker_37
+  - first:
+      213: 6909644202747826993
+    second: font_name_speaker_38
+  - first:
+      213: 2342806943419110632
+    second: font_name_speaker_39
+  - first:
+      213: 1371407903361159521
+    second: font_name_speaker_40
+  - first:
+      213: 7228701725943929838
+    second: font_name_speaker_41
+  - first:
+      213: 1988208526080479849
+    second: font_name_speaker_42
+  - first:
+      213: -8726168329200410392
+    second: font_name_speaker_43
+  - first:
+      213: -8121109509831203389
+    second: font_name_speaker_44
+  - first:
+      213: -7113322703613380171
+    second: font_name_speaker_45
+  - first:
+      213: -3767675454390025207
+    second: font_name_speaker_46
+  - first:
+      213: 4594806303001992238
+    second: font_name_speaker_47
+  - first:
+      213: -8957188087057339427
+    second: font_name_speaker_48
+  - first:
+      213: 5134293095411648374
+    second: font_name_speaker_49
+  - first:
+      213: 4108140053556397870
+    second: font_name_speaker_50
+  - first:
+      213: -5335342872691589188
+    second: font_name_speaker_51
+  - first:
+      213: -3687696191933817459
+    second: font_name_speaker_52
+  - first:
+      213: 980491286574249515
+    second: font_name_speaker_53
+  - first:
+      213: 7560788030966540786
+    second: font_name_speaker_54
+  - first:
+      213: 5906087229112227405
+    second: font_name_speaker_55
+  - first:
+      213: -5234900484761207981
+    second: font_name_speaker_56
+  - first:
+      213: -5039672658358097256
+    second: font_name_speaker_57
+  - first:
+      213: 5340045021251300000
+    second: font_name_speaker_58
+  - first:
+      213: 4666616246438607144
+    second: font_name_speaker_59
+  - first:
+      213: 3807034047535048717
+    second: font_name_speaker_60
+  - first:
+      213: -4000302760623075468
+    second: font_name_speaker_61
+  - first:
+      213: -2877302941799645366
+    second: font_name_speaker_62
+  - first:
+      213: -6909180825353043408
+    second: font_name_speaker_63
+  - first:
+      213: 5110126543735910719
+    second: font_name_speaker_64
+  - first:
+      213: -6743228211195990600
+    second: font_name_speaker_65
+  - first:
+      213: 6433499838919789673
+    second: font_name_speaker_66
+  - first:
+      213: 1722443868482815147
+    second: font_name_speaker_67
+  - first:
+      213: 6242411733944742835
+    second: font_name_speaker_68
+  - first:
+      213: -8033672630641441037
+    second: font_name_speaker_69
+  - first:
+      213: 4210947011723524892
+    second: font_name_speaker_70
+  - first:
+      213: -2560679027398440497
+    second: font_name_speaker_71
+  - first:
+      213: -8950038275071668339
+    second: font_name_speaker_72
+  - first:
+      213: -2334314371259127238
+    second: font_name_speaker_73
+  - first:
+      213: 744878902352693571
+    second: font_name_speaker_74
+  - first:
+      213: -6429293357588570395
+    second: font_name_speaker_75
+  - first:
+      213: -8787047485088986618
+    second: font_name_speaker_76
+  - first:
+      213: -5086120183566478905
+    second: font_name_speaker_77
+  - first:
+      213: 3534735420331428731
+    second: font_name_speaker_78
+  - first:
+      213: 1765529931610637691
+    second: font_name_speaker_79
+  - first:
+      213: -2566543519324181265
+    second: font_name_speaker_80
+  - first:
+      213: 4974874040514642846
+    second: font_name_speaker_81
+  - first:
+      213: 2721782035526254826
+    second: font_name_speaker_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: font_name_speaker_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea5fb4c862d1310800000000000000
+      internalID: 1377299445056908861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 107
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435fc7f2a898c8550800000000000000
+      internalID: 6164453216558576948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 107
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5691eb5cd73974420800000000000000
+      internalID: 2614220277109627237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 107
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58aca10e6485b530800000000000000
+      internalID: 3870145062804170847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 105
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bff01d1f5fa58360800000000000000
+      internalID: 7171330804701790135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 116
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939f067f1a0685f50800000000000000
+      internalID: 6870347480310020409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5815cf505fdaee0d0800000000000000
+      internalID: -3391582201484390011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 107
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edbb4934b7b29470800000000000000
+      internalID: 8399978239682657769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479fcfd991e4fe20800000000000000
+      internalID: 3383577271063254856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f304ba7a943bbc80800000000000000
+      internalID: -8305987249666522125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20587cfe88fe942e0800000000000000
+      internalID: -2140916776420539134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278d3ead0270cde70800000000000000
+      internalID: 9141189181347977330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b92b28b89fdcc50800000000000000
+      internalID: 6687275399303568196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c933e723efd7ee0800000000000000
+      internalID: -1261572827774739388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9b64f46ee2509d0800000000000000
+      internalID: -2808787225888245299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 107
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cdb4dc6e13d76d0800000000000000
+      internalID: -2991179710147601393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 107
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b18384e3e7c1580800000000000000
+      internalID: -8855063961352529125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 107
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc633dde16cd400800000000000000
+      internalID: 350262545106784049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 105
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24710177acd1aed0800000000000000
+      internalID: -2404398114325564373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 107
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcd7251c2b49be80800000000000000
+      internalID: -8162410196926735172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 107
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2922dd30b63bfe890800000000000000
+      internalID: -7426519988302962030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 107
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abae6826ccfced90800000000000000
+      internalID: -7066995787239085150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 105
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b21067488ed4e50800000000000000
+      internalID: 6795343068385061637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7923940d756e99e0800000000000000
+      internalID: -1612740028929988229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8959ac8aa4147890800000000000000
+      internalID: -7461315959909164660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26b41a28fe1a9380800000000000000
+      internalID: -8963818057120827859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b9f5aeed9a52e0800000000000000
+      internalID: -2136221424921497581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663de001d0c6e720800000000000000
+      internalID: 2875197416018884195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1c5752c31daa490800000000000000
+      internalID: -7734139353798688313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4165db08a6174c010800000000000000
+      internalID: 1208215302282499604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dca875dc4293b190800000000000000
+      internalID: -7947848058682168103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae80ecbaf32cbe320800000000000000
+      internalID: 2588375989575616746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fa4150696c8a410800000000000000
+      internalID: 1488658024478584690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303e5eac53805d1c0800000000000000
+      internalID: -4479665227219737853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daf53467bfd70550800000000000000
+      internalID: 6127111796814117584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5307778e7938b8b70800000000000000
+      internalID: 8902353776891359285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5af7c4b735e41ea0800000000000000
+      internalID: -5902841184156911012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274d9f94c9de3c790800000000000000
+      internalID: -7510898498012064654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1331f152bccf3ef50800000000000000
+      internalID: 6909644202747826993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 80
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e490d79082538020800000000000000
+      internalID: 2342806943419110632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161510ad838380310800000000000000
+      internalID: 1371407903361159521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb1422abe1815460800000000000000
+      internalID: 7228701725943929838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9621e68de19879b10800000000000000
+      internalID: 1988208526080479849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0eeb7432c66e680800000000000000
+      internalID: -8726168329200410392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 80
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e674ade50c4f80800000000000000
+      internalID: -8121109509831203389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9376660b6684d90800000000000000
+      internalID: -7113322703613380171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904cf10e22786bbc0800000000000000
+      internalID: -3767675454390025207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 80
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd82efcf704cf30800000000000000
+      internalID: 4594806303001992238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb269c54eca1b380800000000000000
+      internalID: -8957188087057339427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 51
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67780cc1e5ca04740800000000000000
+      internalID: 5134293095411648374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 53
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2788c3ec9b030930800000000000000
+      internalID: 4108140053556397870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf3e46dced05f5b0800000000000000
+      internalID: -5335342872691589188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d59380adba2dcc0800000000000000
+      internalID: -3687696191933817459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26bf9951a76b9d00800000000000000
+      internalID: 980491286574249515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 53
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f929c7c7a05de860800000000000000
+      internalID: 7560788030966540786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4694b70b03a6f150800000000000000
+      internalID: 5906087229112227405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb94baeb5e957b0800000000000000
+      internalID: -5234900484761207981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a21562b6c7f0ab0800000000000000
+      internalID: -5039672658358097256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 53
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aae64077a6ab1a40800000000000000
+      internalID: 5340045021251300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293a0850c623c040800000000000000
+      internalID: 4666616246438607144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e423bb4d45d430800000000000000
+      internalID: 3807034047535048717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 53
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f0c0f65d11c78c0800000000000000
+      internalID: -4000302760623075468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f78d21834c118d0800000000000000
+      internalID: -2877302941799645366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 53
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03244ef45a8ad10a0800000000000000
+      internalID: -6909180825353043408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_64
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 53
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f317ca45401dae640800000000000000
+      internalID: 5110126543735910719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd25484bad3b62a0800000000000000
+      internalID: -6743228211195990600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc8517402684950800000000000000
+      internalID: 6433499838919789673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c77e829957e710800000000000000
+      internalID: 1722443868482815147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b187f56081a650800000000000000
+      internalID: 6242411733944742835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 53
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c6d08e49a28090800000000000000
+      internalID: -8033672630641441037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_70
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 53
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf5c12ff9407a30800000000000000
+      internalID: 4210947011723524892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 53
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98f1cddf3a67cd0800000000000000
+      internalID: -2560679027398440497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f0430bb931bc380800000000000000
+      internalID: -8950038275071668339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa2037279da9fd0800000000000000
+      internalID: -2334314371259127238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 26
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3494a674a67565a00800000000000000
+      internalID: 744878902352693571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_75
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 26
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee972051cf86c6a0800000000000000
+      internalID: -6429293357588570395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_76
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a08ca3ed22e0680800000000000000
+      internalID: -8787047485088986618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_77
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 26
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c15395f3a87a69b0800000000000000
+      internalID: -5086120183566478905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 28
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b88df0327ed0130800000000000000
+      internalID: 3534735420331428731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c8fd5e1c608810800000000000000
+      internalID: 1765529931610637691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_80
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fece91e644ec16cd0800000000000000
+      internalID: -2566543519324181265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 28
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e930033f49d4a0540800000000000000
+      internalID: 4974874040514642846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_name_speaker_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae005973756b5c520800000000000000
+      internalID: 2721782035526254826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      font_name_speaker_0: 1377299445056908861
+      font_name_speaker_1: 6164453216558576948
+      font_name_speaker_10: -2140916776420539134
+      font_name_speaker_11: 9141189181347977330
+      font_name_speaker_12: 6687275399303568196
+      font_name_speaker_13: -1261572827774739388
+      font_name_speaker_14: -2808787225888245299
+      font_name_speaker_15: -2991179710147601393
+      font_name_speaker_16: -8855063961352529125
+      font_name_speaker_17: 350262545106784049
+      font_name_speaker_18: -2404398114325564373
+      font_name_speaker_19: -8162410196926735172
+      font_name_speaker_2: 2614220277109627237
+      font_name_speaker_20: -7426519988302962030
+      font_name_speaker_21: -7066995787239085150
+      font_name_speaker_22: 6795343068385061637
+      font_name_speaker_23: -1612740028929988229
+      font_name_speaker_24: -7461315959909164660
+      font_name_speaker_25: -8963818057120827859
+      font_name_speaker_26: -2136221424921497581
+      font_name_speaker_27: 2875197416018884195
+      font_name_speaker_28: -7734139353798688313
+      font_name_speaker_29: 1208215302282499604
+      font_name_speaker_3: 3870145062804170847
+      font_name_speaker_30: -7947848058682168103
+      font_name_speaker_31: 2588375989575616746
+      font_name_speaker_32: 1488658024478584690
+      font_name_speaker_33: -4479665227219737853
+      font_name_speaker_34: 6127111796814117584
+      font_name_speaker_35: 8902353776891359285
+      font_name_speaker_36: -5902841184156911012
+      font_name_speaker_37: -7510898498012064654
+      font_name_speaker_38: 6909644202747826993
+      font_name_speaker_39: 2342806943419110632
+      font_name_speaker_4: 7171330804701790135
+      font_name_speaker_40: 1371407903361159521
+      font_name_speaker_41: 7228701725943929838
+      font_name_speaker_42: 1988208526080479849
+      font_name_speaker_43: -8726168329200410392
+      font_name_speaker_44: -8121109509831203389
+      font_name_speaker_45: -7113322703613380171
+      font_name_speaker_46: -3767675454390025207
+      font_name_speaker_47: 4594806303001992238
+      font_name_speaker_48: -8957188087057339427
+      font_name_speaker_49: 5134293095411648374
+      font_name_speaker_5: 6870347480310020409
+      font_name_speaker_50: 4108140053556397870
+      font_name_speaker_51: -5335342872691589188
+      font_name_speaker_52: -3687696191933817459
+      font_name_speaker_53: 980491286574249515
+      font_name_speaker_54: 7560788030966540786
+      font_name_speaker_55: 5906087229112227405
+      font_name_speaker_56: -5234900484761207981
+      font_name_speaker_57: -5039672658358097256
+      font_name_speaker_58: 5340045021251300000
+      font_name_speaker_59: 4666616246438607144
+      font_name_speaker_6: -3391582201484390011
+      font_name_speaker_60: 3807034047535048717
+      font_name_speaker_61: -4000302760623075468
+      font_name_speaker_62: -2877302941799645366
+      font_name_speaker_63: -6909180825353043408
+      font_name_speaker_64: 5110126543735910719
+      font_name_speaker_65: -6743228211195990600
+      font_name_speaker_66: 6433499838919789673
+      font_name_speaker_67: 1722443868482815147
+      font_name_speaker_68: 6242411733944742835
+      font_name_speaker_69: -8033672630641441037
+      font_name_speaker_7: 8399978239682657769
+      font_name_speaker_70: 4210947011723524892
+      font_name_speaker_71: -2560679027398440497
+      font_name_speaker_72: -8950038275071668339
+      font_name_speaker_73: -2334314371259127238
+      font_name_speaker_74: 744878902352693571
+      font_name_speaker_75: -6429293357588570395
+      font_name_speaker_76: -8787047485088986618
+      font_name_speaker_77: -5086120183566478905
+      font_name_speaker_78: 3534735420331428731
+      font_name_speaker_79: 1765529931610637691
+      font_name_speaker_8: 3383577271063254856
+      font_name_speaker_80: -2566543519324181265
+      font_name_speaker_81: 4974874040514642846
+      font_name_speaker_82: 2721782035526254826
+      font_name_speaker_9: -8305987249666522125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80141b9527e36348b6389ca421b8ba1, type: 3}
+  m_Name: MapPalette
+  m_EditorClassIdentifier: Assembly-CSharp::MapPalette
+  entries:
+  - symbol: .
+    label: "\uC232"
+    color: {r: 0.16, g: 0.28, b: 0.18, a: 1}
+  - symbol: S
+    label: "\uC9C4\uC785 \uC9C0\uC810"
+    color: {r: 0.4, g: 0.42, b: 0.46, a: 1}
+  - symbol: X
+    label: "\uD0C8\uCD9C \uC9C0\uC810"
+    color: {r: 0.32, g: 0.62, b: 0.3, a: 1}
+  voidColor: {r: 0, g: 0, b: 0, a: 0}
+  unknownColor: {r: 1, g: 0, b: 1, a: 1}

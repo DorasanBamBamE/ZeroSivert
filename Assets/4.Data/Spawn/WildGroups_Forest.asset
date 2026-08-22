@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2ec8b36c4c95de4f8a73bb5ccb13ec0, type: 3}
+  m_Name: WildGroups_Forest
+  m_EditorClassIdentifier: Assembly-CSharp::WildGroupSpawnTable
+  entries:
+  - label: Zombie
+    prefabs:
+    - {fileID: 6734026565448467637, guid: a25b5e24487f6b94ba3cb5fee7505417, type: 3}
+    weight: 0.58
+    minMembers: 3
+    maxMembers: 5
+    scatterRadius: 3.5
+    roamRadius: 7
+  - label: Wolf
+    prefabs:
+    - {fileID: 4777663490699395619, guid: 0dd9f8d9aa02ec64394a15dd20fb3de8, type: 3}
+    weight: 0.42
+    minMembers: 3
+    maxMembers: 5
+    scatterRadius: 4.5
+    roamRadius: 9
